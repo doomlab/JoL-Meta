@@ -1,3 +1,6 @@
+#ignore pdf folder
+Articles/
+
 # History files
 .Rhistory
 .Rapp.history
